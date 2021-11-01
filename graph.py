@@ -1,6 +1,4 @@
 # graph.py
-# From Classic Computer Science Problems in Python Chapter 4
-
 # Licensed under GNU Affero General Public License v3.0
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
